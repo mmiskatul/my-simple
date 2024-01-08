@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+nav > ul > li {
+    display: inline;
+    margin: 10px;
+   
+}
+nav li > a {
+    text-decoration: none;
+}
+footer{
+    margin: 30px;
+    text-align: center;
